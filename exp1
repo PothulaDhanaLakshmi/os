@@ -1,0 +1,10 @@
+  pwd →Print working directory (shows current location). 
+  ls →List files and directories. 
+  ls -l →Detailed list (permissions, size, owner). 
+  ls -a →Show hidden files too. 
+  cd <directory> →Change directory. 
+  cd .. →Go back one level. 
+  mkdir <dirname> →Create new directory. 
+  rmdir <dirname> →Remove empty directory. 
+  rm -r <dirname> →Remove directory and contents. 
+  exit →Logout or close terminal.
